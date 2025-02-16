@@ -1,0 +1,205 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "forgotPassword",
+            "request": "launch",
+            "mainClass": "forgotPassword",
+            "projectName": "travelapp_e46cf90f"
+        },
+        {
+            "type": "java",
+            "name": "Review",
+            "request": "launch",
+            "mainClass": "Review",
+            "projectName": "travelapp_e46cf90f"
+        },
+        {
+            "type": "java",
+            "name": "Payment",
+            "request": "launch",
+            "mainClass": "Payment",
+            "projectName": "travelapp_e46cf90f"
+        },
+        {
+            "type": "java",
+            "name": "deleteCustomer",
+            "request": "launch",
+            "mainClass": "deleteCustomer",
+            "projectName": "travelapp_e46cf90f"
+        },
+        {
+            "type": "java",
+            "name": "payment",
+            "request": "launch",
+            "mainClass": "payment",
+            "projectName": "travelapp_e46cf90f"
+        },
+        {
+            "type": "java",
+            "name": "bookHotel",
+            "request": "launch",
+            "mainClass": "bookHotel",
+            "projectName": "travelapp_e46cf90f"
+        },
+        {
+            "type": "java",
+            "name": "checkPackage",
+            "request": "launch",
+            "mainClass": "checkPackage",
+            "projectName": "travelapp_e46cf90f"
+        },
+        {
+            "type": "java",
+            "name": "Destination",
+            "request": "launch",
+            "mainClass": "Destination",
+            "projectName": "travelapp_e46cf90f"
+        },
+        {
+            "type": "java",
+            "name": "viewBookedHotel",
+            "request": "launch",
+            "mainClass": "viewBookedHotel",
+            "projectName": "travelapp_e46cf90f"
+        },
+        {
+            "type": "java",
+            "name": "bookPackage",
+            "request": "launch",
+            "mainClass": "bookPackage",
+            "projectName": "travelapp_e46cf90f"
+        },
+        {
+            "type": "java",
+            "name": "BigPattern",
+            "request": "launch",
+            "mainClass": "BigPattern",
+            "projectName": "travelapp_e46cf90f"
+        },
+        {
+            "type": "java",
+            "name": "PatternOK",
+            "request": "launch",
+            "mainClass": "PatternOK",
+            "projectName": "travelapp_e46cf90f"
+        },
+        {
+            "type": "java",
+            "name": "checkHotels",
+            "request": "launch",
+            "mainClass": "checkHotels",
+            "projectName": "travelapp_e46cf90f"
+        },
+        {
+            "type": "java",
+            "name": "viewPackage",
+            "request": "launch",
+            "mainClass": "viewPackage",
+            "projectName": "travelapp_e46cf90f"
+        },
+        {
+            "type": "java",
+            "name": "About",
+            "request": "launch",
+            "mainClass": "About",
+            "projectName": "travelapp_e46cf90f"
+        },
+        {
+            "type": "java",
+            "name": "updateCustomerDetails",
+            "request": "launch",
+            "mainClass": "updateCustomerDetails",
+            "projectName": "travelapp_e46cf90f"
+        },
+        {
+            "type": "java",
+            "name": "splash",
+            "request": "launch",
+            "mainClass": "splash",
+            "projectName": "travelapp_e46cf90f"
+        },
+        {
+            "type": "java",
+            "name": "dashboard",
+            "request": "launch",
+            "mainClass": "dashboard",
+            "projectName": "travelapp_e46cf90f"
+        },
+        {
+            "type": "java",
+            "name": "loading",
+            "request": "launch",
+            "mainClass": "loading",
+            "projectName": "travelapp_e46cf90f"
+        },
+        {
+            "type": "java",
+            "name": "viewDetails",
+            "request": "launch",
+            "mainClass": "viewDetails",
+            "projectName": "travelapp_e46cf90f"
+        },
+        {
+            "type": "java",
+            "name": "login",
+            "request": "launch",
+            "mainClass": "login",
+            "projectName": "travelapp_e46cf90f"
+        },
+        {
+            "type": "java",
+            "name": "ViewAccountDetails",
+            "request": "launch",
+            "mainClass": "ViewAccountDetails",
+            "projectName": "travelapp_e46cf90f"
+        },
+        {
+            "type": "java",
+            "name": "signupdetails",
+            "request": "launch",
+            "mainClass": "signupdetails",
+            "projectName": "travelapp_e46cf90f"
+        },
+        {
+            "type": "java",
+            "name": "signup",
+            "request": "launch",
+            "mainClass": "signup",
+            "projectName": "travelapp_e46cf90f"
+        },
+        {
+            "type": "java",
+            "name": "ViewCustomerDetails",
+            "request": "launch",
+            "mainClass": "ViewCustomerDetails",
+            "projectName": "travelapp_e46cf90f"
+        },
+        {
+            "type": "java",
+            "name": "addPersonalDetails",
+            "request": "launch",
+            "mainClass": "addPersonalDetails",
+            "projectName": "travelapp_e46cf90f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "addPersonalDetails",
+            "projectName": "TRAVELAPP",
+            "classPaths": [
+                "lib/mysql-connector-java-8.0.33.jar"
+            ]
+        },
+        {
+            "type": "cmake",
+            "request": "launch",
+            "name": "Debug portfile(s)",
+            "cmakeDebugType": "external",
+            "pipeName": "\\\\.\\pipe\\vcpkg_ext_portfile_dbg",
+            "preLaunchTask": "Debug vcpkg commands"
+        }
+    ]
+}
