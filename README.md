@@ -1,4 +1,3 @@
-# Travel-Companion
 # Travel Companion 🌍
 
 **Travel Companion** is a travel app designed to help users plan their trips, discover new destinations, and manage their travel itineraries.
@@ -10,9 +9,9 @@
 - Save your favorite locations
 
 ## Technologies Used 🛠️
-- **Frontend**: React (or your specific frontend framework)
-- **Backend**: Node.js (or any backend you're using)
-- **Database**: MongoDB (or any database you're using)
+- **Frontend**: Java Swing
+- **Backend**: Java
+- **Database**: SQL
 
 ## Installation 🛠️
 To set up this project locally:
